@@ -52,6 +52,3 @@ Enter the number of the connection to display the password: 1
 Password for connection 'Guest_WiFi': myguestpassword123
 Contributing
 If you would like to contribute to this project, please open an issue or submit a pull request on GitHub.
-
-License
-This script is licensed under the MIT License.
