@@ -16,19 +16,17 @@ This Bash script allows you to easily retrieve Wi-Fi passwords for saved connect
    git clone https://github.com/vitorrezend/show-wifipass-linux.git
 Navigate to the script directory:
 
-bash
-Copy code
-cd show-wifipass-linux
+   ```bash
+    cd show-wifipass-linux
+
 Make the script executable:
 
-bash
-Copy code
+   ```bash
 chmod +x show-wifipass-linux.sh
 Usage
 To run the script and retrieve Wi-Fi passwords, use the following command:
 
-bash
-Copy code
+   ```bash
 ./show-wifipass-linux.sh
 Follow the instructions presented by the script.
 
